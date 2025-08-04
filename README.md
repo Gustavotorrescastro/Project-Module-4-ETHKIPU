@@ -20,4 +20,4 @@ This repository contains the validation tests for the `SimpleDEX.sol` contract, 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/seu-usuario/Project-Module-4-ETHKIPU
+   git clone https://github.com/Gustavotorrescastro/Project-Module-4-ETHKIPU
