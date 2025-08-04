@@ -4,6 +4,13 @@ This repository contains the validation tests for the `SimpleDEX.sol` contract, 
 
 ---
 
+## Student
+
+- **Name:** Gustavo Torres Castro
+- **Email (used for the branch):** gustavotorrescastro@gmail.com
+
+---
+
 ## Tools Used
 
 - **Node.js**
@@ -12,7 +19,7 @@ This repository contains the validation tests for the `SimpleDEX.sol` contract, 
 - **Chai**: Assertion library for tests.
 - **Solidity Coverage**: Plugin to generate code coverage reports.
 - **OpenZeppelin Contracts**: For interfaces and base contracts, like `Ownable`.
-- **Alchemy**: As a node provider for interacting with the network.
+- **Alchemy**: As a node provider for network interaction.
 
 ---
 
