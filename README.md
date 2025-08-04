@@ -6,8 +6,8 @@ Este repositório contém os testes de validação para o contrato `SimpleDEX.so
 
 ## Aluno
 
-- **Nome:** [Gustavo Torres Castro]
-- **Email (usado na branch):** [gustavotorrescastro@gmail.com]
+- **Nome:** Gustavo Torres Castro
+- **Email (usado na branch):** gustavotorrescastro@gmail.com
 
 ---
 
