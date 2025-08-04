@@ -1,23 +1,23 @@
-# Trabalho Final: Avaliações e Testes do SimpleDEX (Módulo 3)
+# Final Project: Assessments and Tests of the SimpleDEX (Module 3)
 
-Este repositório contém os testes de validação para o contrato `SimpleDEX.sol`, desenvolvidos como parte do trabalho final do Módulo 3. O projeto utiliza o ambiente de desenvolvimento Hardhat para compilar, testar e medir a cobertura de código do smart contract.
+This repository contains the validation tests for the `SimpleDEX.sol` contract, developed as part of the final project for Module 3. The project uses the Hardhat development environment to compile, test, and measure the smart contract's code coverage.
 
 ---
 
-## Ferramentas Utilizadas
+## Tools Used
 
 - **Node.js**
-- **Hardhat**: Ambiente de desenvolvimento e testes.
-- **Ethers.js**: Biblioteca para interação com a blockchain.
-- **Chai**: Biblioteca de asserções para os testes.
-- **Solidity Coverage**: Plugin para gerar relatórios de cobertura de código.
-- **OpenZeppelin Contracts**: Para interfaces e contratos base, como `Ownable`.
-- **Alchemy**: Como provedor de nós para interação com a rede.
+- **Hardhat**: Development and testing environment.
+- **Ethers.js**: Library for interacting with the blockchain.
+- **Chai**: Assertion library for tests.
+- **Solidity Coverage**: Plugin to generate code coverage reports.
+- **OpenZeppelin Contracts**: For interfaces and base contracts, like `Ownable`.
+- **Alchemy**: As a node provider for interacting with the network.
 
 ---
 
-## Como Executar o Projeto
+## How to Run the Project
 
-1. **Clonar o repositório:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/seu-usuario/Project-Module-4-ETHKIPU
