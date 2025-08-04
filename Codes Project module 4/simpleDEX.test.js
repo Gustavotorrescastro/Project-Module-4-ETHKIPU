@@ -57,7 +57,6 @@ describe("SimpleDEX", function () {
     });
 
     it("Should fail if a non-owner tries to add liquidity", async function () {
-      // CORREÇÃO FINAL: Verificar o erro customizado em vez da string
       await expect(
         dex.connect(user1).addLiquidity(parseEther("10"), parseEther("10"))
       ).to.be.revertedWithCustomError(dex, "OwnableUnauthorizedAccount")
@@ -162,4 +161,5 @@ describe("SimpleDEX", function () {
         await expect(dex.getPrice(user1.address)).to.be.revertedWith("Invalid token address");
       })
   });
+
 });
