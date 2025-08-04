@@ -20,4 +20,4 @@ Este repositório contém os testes de validação para o contrato `SimpleDEX.so
 
 1. **Clonar o repositório:**
    ```bash
-   git clone https://github.com/Gustavotorrescastro/Project-Module-4-ETHKIPU/tree/main
+   git clone <https://github.com/Gustavotorrescastro/Project-Module-4-ETHKIPU/tree/main>
